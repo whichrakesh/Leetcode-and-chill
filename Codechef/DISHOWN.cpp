@@ -65,7 +65,7 @@ int main() {
 	            
 	        } else {
 	            cin >> x;
-	            cout << dishToOwnerMap[x-1] << endl;
+	            cout << dishToOwnerMap[x-1]+1 << endl;
 	        } 
 	    }
 	}
