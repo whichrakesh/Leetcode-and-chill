@@ -9,4 +9,6 @@ Contents
     - https://www.codechef.com/certification/data-structures-and-algorithms/prepare#advanced
 - Leetcode problems
     - https://leetcode.com/problemset/top-interview-questions/?difficulty=Medium
+- Google Questions on Leetcode
+    - https://leetcode.com/explore/interview/card/google/67/sql-2/
     
